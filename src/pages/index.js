@@ -38,7 +38,7 @@ export const pageQuery = graphql`
             title
             name
             subtitle
-            contactText
+            buttonText
           }
           html
         }
@@ -126,6 +126,7 @@ export const pageQuery = graphql`
         node {
           frontmatter {
             title
+            buttonText
           }
           html
         }
