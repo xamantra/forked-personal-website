@@ -3,6 +3,8 @@ date: '2018-10-01'
 title: 'Anime Discord Presence'
 github: 'https://github.com/xamantra/anime-player-with-discord-presence'
 external: ''
+ios: ''
+android: ''
 tech:
   - .NET Winforms
   - C#
