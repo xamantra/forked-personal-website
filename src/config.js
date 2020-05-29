@@ -6,8 +6,8 @@ module.exports = {
     'Charlou Aredidon, Charlou, Aredidon, xamantra, software engineer, front-end engineer, web developer, javascript, northeastern',
   siteUrl: 'https://xamantra.github.io',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleAnalyticsID: 'UA-165954357-1',
+  googleVerification: 'zly3P3vOQdtpZdDlmkvLQbSjo-WI7hn2frVW6CkOnC8',
   name: 'Charlou Aredidon',
   location: 'Davao City, PH',
   email: 'xamantra.dev@gmail.com',
@@ -16,6 +16,10 @@ module.exports = {
     {
       name: 'GitHub',
       url: 'https://github.com/xamantra',
+    },
+    {
+      name: 'Pub',
+      url: 'https://pub.dev/publishers/xamdev.gq/packages',
     },
   ],
 
