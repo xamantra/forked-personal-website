@@ -10,7 +10,7 @@ tech:
   - REST API
   - Client-side DB
 company: Witty/Posbang
-showInProjects: false
+showInProjects: true
 ---
 
 A witty mobile app made for kiosk or tablet devices.

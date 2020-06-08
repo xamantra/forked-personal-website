@@ -3,6 +3,7 @@ date: '2020-05-27'
 title: 'OwensMX'
 github: ''
 external: ''
+android: 'https://play.google.com/store/apps/details?id=com.owensgroup.owensmx'
 tech:
   - Dart
   - Flutter

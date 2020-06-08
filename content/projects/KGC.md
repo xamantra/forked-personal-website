@@ -8,7 +8,7 @@ tech:
   - Flutter
   - Webview
 company: OwensGroup/Posbang
-showInProjects: false
+showInProjects: true
 ---
 
 A very simple mobile app made with flutter displaying a mobile responsive web app for owens group's KGC website.
