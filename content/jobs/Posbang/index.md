@@ -9,5 +9,5 @@ url: 'http://www.posbang.com/'
 
 - Developed and publish mobile apps integrated with the main product of the company
 - Fixed bugs on existing mobile projects.
-- Make new apis used in mobile services.
+- Make new APIs used in mobile services.
 - Fixed and Updated existings php apis used in mobile apps.

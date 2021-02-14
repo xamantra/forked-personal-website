@@ -2,17 +2,14 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - Dart
   - Flutter
+  - Dart
   - Nodejs
-  - C#
   - PHP
 ---
 
-Hello! I'm Charlou, a computer programmer from Philippines.
+Though I'm primarily a flutter/dart developer right now, C# was the first programming language I learned which I haven't touched for years after I graduated. I immediately started working as a flutter developer after college.
 
-I currently work as a flutter programmer in a small company and I also make flutter libraries to improve flutter development speed and workflow.
-
-The first programming language I learned was C# back in college and I quite mastered it but haven't touch C# again for years and I've forgotten most parts about it. After graduating I started working as a flutter dev and I'm still working at there currently.
+_"The fake is of far greater value. In its deliberate attempt to be real, it's more real than the real thing."_ ― [Kaiki Deishuu](https://myanimelist.net/character/53641).
 
 Here are a few technologies I've been working with recently:
